@@ -1,0 +1,8 @@
+{
+  "title": "Simple RN Template",
+  "description": "This module contains the React native template and it is used for testing purposes.",
+  "search_description": "",
+  "acceptance_criteria": "",
+  "root": "/modules/simple-template",
+  "schema": {}
+}

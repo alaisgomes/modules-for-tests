@@ -1,0 +1,8 @@
+{
+  "title": "Simple Django App",
+  "description": "This is a very simple Django app that demonstrates how to use the Django REST framework and how to create modules.",
+  "search_description": "",
+  "acceptance_criteria": "",
+  "root": "/backend/modules",
+  "schema": {}
+}
