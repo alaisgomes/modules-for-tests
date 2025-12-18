@@ -1,0 +1,12 @@
+{
+  "name": "@modules/book-list",
+  "version": "1.0.0",
+  "description": "A React Native module that displays a static list of books",
+  "private": true,
+  "main": "index.js",
+  "keywords": ["react-native", "books", "list", "testing"],
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.72.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "React Native Book List",
+  "description": "This module contains a React Native component that displays a static list of books. It is used for testing purposes and demonstrates basic list rendering in React Native.",
+  "search_description": "",
+  "acceptance_criteria": "",
+  "root": "/modules/book-list",
+  "schema": {}
+}
