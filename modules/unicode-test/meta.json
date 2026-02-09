@@ -1,0 +1,8 @@
+{
+  "title": "Unicode Test Module",
+  "description": "A test module containing non-standard unicode characters in comments and strings for encoding tests.",
+  "search_description": "",
+  "acceptance_criteria": "",
+  "root": "/backend/modules",
+  "schema": {}
+}
